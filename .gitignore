@@ -1,0 +1,15 @@
+# sensitive files
+.env
+*.key
+*.pem
+
+#Password
+*password*
+*secret*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#Logs
+*.log
